@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/appvars.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/editprofile.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/footer.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/header.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/index.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/login.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/logout.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/navmenu.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/questionnaire.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/signup.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/startsession.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/viewprofile.php" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
